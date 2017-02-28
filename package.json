@@ -5,10 +5,12 @@
   "main": "index.js",
   "dependencies": {
     "boom": "^2.6.1",
+    "crypto": "0.0.3",
     "hapi": "^8.4.0",
     "joi": "^6.0.8",
     "node-uuid": "^1.4.3",
-    "when": "^3.7.2"
+    "when": "^3.7.2",
+    "ws": "^2.1.0"
   },
   "devDependencies": {},
   "scripts": {
